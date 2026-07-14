@@ -6,7 +6,8 @@ Employees frequently ask questions about company policies.
 
 ## Documents
 
-* Leave Policy PDF
+* Leave Policy PDF [Leave-Policy-India.pdf](https://github.com/user-attachments/files/30009383/Leave-Policy-India.pdf)
+
 * Attendance Policy PDF
 * Employee Handbook
 
