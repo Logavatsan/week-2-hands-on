@@ -1,0 +1,4 @@
+Bot Name: HR Policy Assistant
+
+Bot URL:
+https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/07/20/11/20260720114536-60PZN5VI.json
